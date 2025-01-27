@@ -1,4 +1,4 @@
-# TIBR Radio - Desktop Client
+# The Indie Beat - Simple Desktop Client
 
 A small system tray application for streaming [The Indie Beat Radio](https://theindiebeat.fm).
 
@@ -18,11 +18,13 @@ For a slightly more feature-rich experience, check out my [GNOME Shell extension
 
 #### Debian/Ubuntu
 
+(specifically, Debian unstable on MNT Pocket Reform; I assume the packages may be the same on other Debian derivatives)
+
 ```bash
 sudo apt install \
     python3-gi \
     gir1.2-gtk-3.0 \
-    gir1.2-ayatanaappindicator3-1.0 \
+    gir1.2-ayatanaappindicator3-0.1 \
     gstreamer1.0-plugins-good \
     gstreamer1.0-plugins-bad \
     gstreamer1.0-libav
