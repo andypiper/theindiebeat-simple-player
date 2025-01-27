@@ -2,7 +2,7 @@
 
 A small system tray application for streaming [The Indie Beat Radio](https://theindiebeat.fm).
 
-I wrote this because I wanted something that did not depend on a full desktop environment, and that could easily be controlled from the system tray in a mimalistic desktop such as Sway or i3 (which I use on my MNT Pocket Reform).
+I wrote this because I wanted something that did not depend on a full desktop environment, and that could easily be controlled from the system tray in a mimalistic desktop such as Sway or i3 (which I use on my [MNT Pocket Reform](https://shop.mntre.com/products/mnt-pocket-reform)).
 
 For a slightly more feature-rich experience, check out my [GNOME Shell extension for The Indie Beat](https://extensions.gnome.org/extension/7822/the-indie-beat-fediverse-radio/).
 
@@ -66,5 +66,4 @@ MIT
 
 ## Credits
 
-Powered by The Indie Beat Radio
-Built with Python, GTK, and GStreamer
+Powered by [The Indie Beat Radio](https://theindiebeat.fm) and [Bandwagon](https://bandwagon.fm/). Built with Python, GTK, and GStreamer.
