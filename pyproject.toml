@@ -1,0 +1,18 @@
+[project]
+name = "tibr-radio"
+version = "1.0.0"
+description = "A minimal desktop client for The Indie Beat Radio"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [ "Andy Piper" ]
+dependencies = [
+    "PyGObject",
+    "aiohttp",
+    "gst-python",
+]
+
+[project.optional-dependencies]
+dev = [
+    "flake8"
+]

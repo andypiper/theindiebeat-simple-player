@@ -1,0 +1,3 @@
+PyGObject
+aiohttp
+gst-python
