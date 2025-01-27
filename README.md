@@ -64,7 +64,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+## Author
+
+👤 **Andy Piper** - [@andypiper@macaw.social](https://macaw.social/@andypiper)
 
 ## Credits
 
