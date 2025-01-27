@@ -12,6 +12,8 @@ For a slightly more feature-rich experience, check out my [GNOME Shell extension
 - Minimal system tray interface
 - Simple playback control
 
+![app running on Sway](screenshots/pocket-reform.png)
+
 ## Dependencies
 
 ### System Packages
